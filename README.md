@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Intelligence — MLflow + FastAPI + Streamlit
 
 End-to-end ML system with:
@@ -28,3 +29,7 @@ uvicorn backend.main:app --reload --port 8000
 # 5. Start frontend (new terminal)
 streamlit run frontend/app.py
 # Open http://localhost:8501
+=======
+# ai-E-commerce-intelligence
+AI Powered E-Commerce Intelligence system demand + customer+product analytics
+>>>>>>> a90737be12eee65cde855b16ea7246e0f896e6ab
