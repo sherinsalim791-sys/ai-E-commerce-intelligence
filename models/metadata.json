@@ -1,0 +1,25 @@
+{
+  "model_name": "gb",
+  "run_id": "22f75433398f4e05b66ad60683bcf8c0",
+  "metrics": {
+    "accuracy": 0.985,
+    "precision": 0.97,
+    "recall": 0.97,
+    "f1": 0.97,
+    "roc_auc": 0.9980333333333333
+  },
+  "features": [
+    "Customer_Age",
+    "Customer_Segment",
+    "Region",
+    "City",
+    "Sales_Channel",
+    "Category",
+    "Quantity",
+    "Unit_Price",
+    "Discount_Percent",
+    "Payment_Method",
+    "Order_Status"
+  ],
+  "target": "is_high_value (Sales_Amount >= 75th percentile)"
+}
